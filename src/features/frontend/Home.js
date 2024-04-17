@@ -29,7 +29,7 @@ const Home = () => {
           Box 4
         </Grid>
         <Grid item xs={12} sx={{ border: "2px solid black" }}>
-          Boxing
+          Boxing 5
         </Grid>
       </Grid>
     </>
